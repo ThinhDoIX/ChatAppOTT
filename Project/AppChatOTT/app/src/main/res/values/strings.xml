@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AppChatOTT</string>
+    <string name="hint_username">Nhập tên người dùng</string>
+    <string name="hint_password">Nhập mật khẩu</string>
+    <string name="btn_login">Đăng nhập</string>
+    <string name="btn_register">Đăng kí</string>
+    <string name="hint">Text goes here</string>
+    <string name="register_title">Đăng kí</string>
+    <string name="login_title">Đăng Nhập</string>
+    <string name="input_name">Tên đăng nhập</string>
+    <string name="input_pwd">Nhập mật khẩu</string>
+    <string name="input_pwd2">Nhập mật khẩu lần 2</string>
+    <string name="input_email">Nhập Email Google</string>
+    <string name="loading">Loading...</string>
+    <string name="input_phone">Nhập số điện thoại</string>
+</resources>

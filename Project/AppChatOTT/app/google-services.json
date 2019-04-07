@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "54945305696",
+    "firebase_url": "https://appchatott.firebaseio.com",
+    "project_id": "appchatott",
+    "storage_bucket": "appchatott.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54945305696:android:3c057eae8cc3480e",
+        "android_client_info": {
+          "package_name": "appchat.kuroneko.appchatott"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54945305696-801f6j01jj4c33h7b3ipk2mjlrjrcfno.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "appchat.kuroneko.appchatott",
+            "certificate_hash": "6e2dbbf555014e91f1ef3579267baece4b17c46a"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfgj_mA-AezNXc8D_nwc5YXwZTSY9EqnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54945305696-gfsgj6ps87p61sjom3iuf7kcein2lj16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

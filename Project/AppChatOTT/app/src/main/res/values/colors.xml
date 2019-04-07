@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorCyan">#00FFFF </color>
+    <color name="colorPurple">#a916bc</color>
+    <color name="colorPink">#ed0d84</color>
+    <color name="colorLoginBtn">#50c9c3</color>
+    <color name="colorPeach">#F05F57</color>
+    <color name="colorPinkBold">#F072B6</color>
+    <color name="colorBlueLight">#2AFADF </color>
+    <color name="colorLightGrey">#7f8ca3</color>
+</resources>
